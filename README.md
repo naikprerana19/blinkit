@@ -31,4 +31,4 @@ Maximize total sales 🚀 ($1.20M) & avg. sales 📈 ($141) by optimizing outlet
 
 📈 Dashboard shows outlet size & location impact on sales distribution.
 
-LinkedIn post : 
+LinkedIn post : https://www.linkedin.com/feed/update/urn:li:share:7400061739163340800/
